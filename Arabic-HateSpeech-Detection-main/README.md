@@ -91,6 +91,12 @@ Open `ArabicHateSpeech.ipynb` in [Google Colab](https://colab.research.google.co
 
 ## Author
 
-**Fares Alawneh**  
+**Ali Alekish**  
 AI Student — Jordan University of Science and Technology  
-[GitHub](https://github.com/faresalawneh) · [Hugging Face](https://huggingface.co/faresalawneh)
+[GitHub](https://github.com/alialekish)
+
+---
+
+## License
+
+MIT License — University project built at JUST.
