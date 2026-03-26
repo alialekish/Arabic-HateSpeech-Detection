@@ -1,0 +1,6 @@
+cc.ar.300.vec
+cc.ar.300.vec.gz
+*.csv
+*.h5
+*.keras
+__pycache__/
