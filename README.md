@@ -1,4 +1,4 @@
-# Arabic Hate Speech Detection
+# Arabic Hate Speech Detection.
 
 A deep learning pipeline for detecting hate speech in Arabic tweets, comparing classical ML and neural network approaches using FastText Arabic embeddings.
 
